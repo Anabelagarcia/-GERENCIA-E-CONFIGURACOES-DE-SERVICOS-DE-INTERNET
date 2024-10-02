@@ -8,6 +8,13 @@ h1 {
     margin-bottom: 20px; 
 }
 
+img {
+    width: 300px; 
+    margin: 10px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
 
 body {
     font-family: Arial, sans-serif; 
